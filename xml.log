@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-16T20:08:01.121317800Z</date>
+  <millis>1558037281121</millis>
+  <nanos>317800</nanos>
+  <sequence>4</sequence>
+  <logger>MyLog</logger>
+  <level>WARNING</level>
+  <class>com.example.demo.Controller</class>
+  <method>postCustomer</method>
+  <thread>22</thread>
+  <message>Zdravko vec postoji u bazi podataka</message>
+</record>
+<record>
+  <date>2019-05-16T20:08:01.132310500Z</date>
+  <millis>1558037281132</millis>
+  <nanos>310500</nanos>
+  <sequence>5</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Controller</class>
+  <method>postCustomer</method>
+  <thread>22</thread>
+  <message>Zdravko vec postoji u bazi podataka</message>
+</record>
+<record>
+  <date>2019-05-16T20:08:01.376926400Z</date>
+  <millis>1558037281376</millis>
+  <nanos>926400</nanos>
+  <sequence>6</sequence>
+  <logger>MyLog</logger>
+  <level>WARNING</level>
+  <class>com.example.demo.Controller</class>
+  <method>postCustomer</method>
+  <thread>22</thread>
+  <message>Mirko vec postoji u bazi podataka</message>
+</record>
+<record>
+  <date>2019-05-16T20:08:01.376926400Z</date>
+  <millis>1558037281376</millis>
+  <nanos>926400</nanos>
+  <sequence>7</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Controller</class>
+  <method>postCustomer</method>
+  <thread>22</thread>
+  <message>Mirko vec postoji u bazi podataka</message>
+</record>
+<record>
+  <date>2019-05-16T20:08:01.664921600Z</date>
+  <millis>1558037281664</millis>
+  <nanos>921600</nanos>
+  <sequence>8</sequence>
+  <logger>MyLog</logger>
+  <level>WARNING</level>
+  <class>com.example.demo.Controller</class>
+  <method>postCustomer</method>
+  <thread>22</thread>
+  <message>Janko vec postoji u bazi podataka</message>
+</record>
+<record>
+  <date>2019-05-16T20:08:01.665921300Z</date>
+  <millis>1558037281665</millis>
+  <nanos>921300</nanos>
+  <sequence>9</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Controller</class>
+  <method>postCustomer</method>
+  <thread>22</thread>
+  <message>Janko vec postoji u bazi podataka</message>
+</record>
+<record>
+  <date>2019-05-16T20:08:01.892278100Z</date>
+  <millis>1558037281892</millis>
+  <nanos>278100</nanos>
+  <sequence>10</sequence>
+  <logger>MyLog</logger>
+  <level>WARNING</level>
+  <class>com.example.demo.Controller</class>
+  <method>postCustomer</method>
+  <thread>22</thread>
+  <message>Mirko vec postoji u bazi podataka</message>
+</record>
+<record>
+  <date>2019-05-16T20:08:01.892278100Z</date>
+  <millis>1558037281892</millis>
+  <nanos>278100</nanos>
+  <sequence>11</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Controller</class>
+  <method>postCustomer</method>
+  <thread>22</thread>
+  <message>Mirko vec postoji u bazi podataka</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-16T20:14:56.108677600Z</date>
+  <millis>1558037696108</millis>
+  <nanos>677600</nanos>
+  <sequence>4</sequence>
+  <logger>MyLog</logger>
+  <level>WARNING</level>
+  <class>com.example.demo.Controller</class>
+  <method>postCustomer</method>
+  <thread>23</thread>
+  <message>Zdravko vec postoji u bazi podataka</message>
+</record>
+<record>
+  <date>2019-05-16T20:14:56.124300300Z</date>
+  <millis>1558037696124</millis>
+  <nanos>300300</nanos>
+  <sequence>5</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Controller</class>
+  <method>postCustomer</method>
+  <thread>23</thread>
+  <message>Zdravko vec postoji u bazi podataka</message>
+</record>
+<record>
+  <date>2019-05-16T20:14:56.370103300Z</date>
+  <millis>1558037696370</millis>
+  <nanos>103300</nanos>
+  <sequence>6</sequence>
+  <logger>MyLog</logger>
+  <level>WARNING</level>
+  <class>com.example.demo.Controller</class>
+  <method>postCustomer</method>
+  <thread>23</thread>
+  <message>Mirko vec postoji u bazi podataka</message>
+</record>
+<record>
+  <date>2019-05-16T20:14:56.371099600Z</date>
+  <millis>1558037696371</millis>
+  <nanos>99600</nanos>
+  <sequence>7</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Controller</class>
+  <method>postCustomer</method>
+  <thread>23</thread>
+  <message>Mirko vec postoji u bazi podataka</message>
+</record>
+<record>
+  <date>2019-05-16T20:14:56.653926900Z</date>
+  <millis>1558037696653</millis>
+  <nanos>926900</nanos>
+  <sequence>8</sequence>
+  <logger>MyLog</logger>
+  <level>WARNING</level>
+  <class>com.example.demo.Controller</class>
+  <method>postCustomer</method>
+  <thread>23</thread>
+  <message>Janko vec postoji u bazi podataka</message>
+</record>
+<record>
+  <date>2019-05-16T20:14:56.654926600Z</date>
+  <millis>1558037696654</millis>
+  <nanos>926600</nanos>
+  <sequence>9</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Controller</class>
+  <method>postCustomer</method>
+  <thread>23</thread>
+  <message>Janko vec postoji u bazi podataka</message>
+</record>
+<record>
+  <date>2019-05-16T20:14:56.858219900Z</date>
+  <millis>1558037696858</millis>
+  <nanos>219900</nanos>
+  <sequence>10</sequence>
+  <logger>MyLog</logger>
+  <level>WARNING</level>
+  <class>com.example.demo.Controller</class>
+  <method>postCustomer</method>
+  <thread>23</thread>
+  <message>Mirko vec postoji u bazi podataka</message>
+</record>
+<record>
+  <date>2019-05-16T20:14:56.858219900Z</date>
+  <millis>1558037696858</millis>
+  <nanos>219900</nanos>
+  <sequence>11</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Controller</class>
+  <method>postCustomer</method>
+  <thread>23</thread>
+  <message>Mirko vec postoji u bazi podataka</message>
+</record>
